@@ -16,7 +16,7 @@
         <biostatMet>4</biostatMet>
         <biostatCpx>2</biostatCpx>
         <statFactors>
-            <EBSG_DeathrestEfficiency>0.20</EBSG_DeathrestEfficiency>
+            <EBSG_DeathrestEfficiency>0.40</EBSG_DeathrestEfficiency>
         </statFactors>
     </GeneDef>
 
@@ -28,7 +28,7 @@
         <displayOrderInCategory>666.2</displayOrderInCategory>
         <biostatMet>3</biostatMet>
         <statFactors>
-            <EBSG_DeathrestEfficiency>0.40</EBSG_DeathrestEfficiency>
+            <EBSG_DeathrestEfficiency>0.55</EBSG_DeathrestEfficiency>
         </statFactors>
     </GeneDef>
 
@@ -40,7 +40,7 @@
         <displayOrderInCategory>666.3</displayOrderInCategory>
         <biostatMet>2</biostatMet>
         <statFactors>
-            <EBSG_DeathrestEfficiency>0.60</EBSG_DeathrestEfficiency>
+            <EBSG_DeathrestEfficiency>0.70</EBSG_DeathrestEfficiency>
         </statFactors>
     </GeneDef>
 
@@ -52,7 +52,7 @@
         <displayOrderInCategory>666.4</displayOrderInCategory>
         <biostatMet>1</biostatMet>
         <statFactors>
-            <EBSG_DeathrestEfficiency>0.80</EBSG_DeathrestEfficiency>
+            <EBSG_DeathrestEfficiency>0.85</EBSG_DeathrestEfficiency>
         </statFactors>
     </GeneDef>
 
